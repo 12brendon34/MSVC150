@@ -1,0 +1,24 @@
+﻿"DeployProject"
+{
+	ProjectType = "8:{3EA9E505-35AC-4774-B492-AD1749C4943A}"
+	DeploymentTemplate = "8:{EB2718A3-AEA0-4E7A-8ED3-0868A32E05D9}"
+
+	"Configurations"
+	{
+		"Debug"
+		{
+			DisplayName = "8:Debug"
+			IsDebugOnly = "11:TRUE"
+			IsReleaseOnly = "11:FALSE"
+		}
+		"Release"
+		{
+			DisplayName = "8:Release"
+			IsDebugOnly = "11:FALSE"
+			IsReleaseOnly = "11:TRUE"
+		}
+	}
+	"Deployable"
+	{
+	}
+}
